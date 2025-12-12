@@ -1,1 +1,1 @@
-# Dhayanidhi-R-S-25MML0025-Edge-Intelligence-Lab
+Place for Edge Intelligence Assignments
