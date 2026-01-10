@@ -1,1 +1,1 @@
-
+This Edge Impulse model development, Training and testing was performed on Lab 5(10/01/26)
